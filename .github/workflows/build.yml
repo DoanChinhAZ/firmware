@@ -58,6 +58,9 @@ jobs:
           # Ingenic [T40]
           - t40_lite
 
+          # Ingenic [T41]
+          - t41_lite
+
           # Hisilicon [HI3516AV100]
           - hi3516av100_lite
           - hi3516dv100_lite
